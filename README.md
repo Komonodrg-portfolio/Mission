@@ -1,6 +1,4 @@
 <h1>
-  Welcome, I'm Steven Komono <br/>
-  <sub>
     <a href="https://github.com/Komonodrg-portfolio/Cybersecurity">Cybersecurity</a> | 
     <a href="https://github.com/Komonodrg-portfolio/Networking">Networking</a> | 
     <a href="https://github.com/Komonodrg-portfolio/AI">Data Science (AI)</a> | 
@@ -9,34 +7,46 @@
 </h1>
 
 
-<h2>🏁 Mission</h2>
-To use this repo to bring attention to many causes I aim to champion.  Holistically, the most pertinent vision being the need to bridge the gap in knowledge, accessibility, & quality of life between people in developed worlds vs under developed nations via empowering anyone who has ever had a dream to pursue a sustainable career in IT.  
+<h1>🏁 Mission</h1> 
 
 ----------------------------------------------------------------------------------------------------------
+<h2>🌐 Overview</h2>
+<h3>🌍 Mission: Empower Through Tech – Cybersecurity, Networking, Media, & AI</h3>
 
-🌍 Mission: Empower Through Tech – Cybersecurity, Networking & AI
-💡 Overview
+Welcome to my Mission Repo – a personal and professional journey combining continuous learning in Cybersecurity, Network Engineering, and Artificial Intelligence, with a mission to empower others, especially those in underdeveloped regions & underserverd communities, through open access to knowledge, tools, and real-world use cases.
 
-Welcome to my Mission Repo – a personal and professional journey combining continuous learning in Cybersecurity, Network Engineering, and Artificial Intelligence, with a mission to empower others, especially those in underdeveloped regions, through open access to knowledge, tools, and real-world use cases.
+This repository is more than a portfolio – it's a commitment to use technology as a force for positivity, both domestically and abroad globally.
 
-This repository is more than a portfolio – it's a commitment to use technology as a force for good, local and global.
+<h3>🚀 Mission Goals</h3>
 
-🚀 Mission Goals
-🌐 1. Empowerment Abroad
+My goal is to create structured, beginner-friendly training and project materials in Cybersecurity, Networking, Media Creation all while leveraging AI, specifically designed for learners of all walks.  The main focal points:
 
-My goal is to create structured, beginner-friendly training and project materials in Cybersecurity, Networking, and AI specifically designed for learners in underdeveloped countries.
+- <b>Open-access & open source educational materials 
+- <b>Low-bandwidth <u>(cost)</u> friendly resources</b>
+- <b>Easy to follow content & culturally relevant & real-world examples</b>
+- <b>GitHub-based learning & collaboration</b>
+- <b>Remote mentoring opportunities (coming soon)</b>
 
-✅ Open-access educational materials
+I hope 
 
-✅ Low-bandwidth friendly resources
+<details>
+  <summary><em>🪂 One Man's Thoughts...</em></summary>
+  The summer of last year (2024) provided a once in a lifetime opportunity to knock off one of the items in my bucket list - to see the origin continent
+  ### 🔐 Cybersecurity Modules
+  - Network Security Fundamentals
+  - Common Vulnerabilities (OWASP Top 10)
+  - Setting up a Home Lab
+  - Threat Detection with Wireshark
+  - Basics of Threat Modeling
 
-✅ Translatable content & culturally relevant examples
+  👨‍💻 Currently working through: TryHackMe, Hack The Box
 
-✅ GitHub-based learning & collaboration
+</details>
 
-✅ Remote mentoring opportunities (coming soon)
 
-This mission is driven by the belief that access to digital skills can change lives, unlock careers, and foster innovation globally.
+This mission is driven by the belief that access to digital skills can change lives, unlock careers, and foster innovation here & abroad.
+  
+
 
 🤝 2. Impact Local Businesses
 
@@ -62,7 +72,11 @@ Creating a professional online presence
 
 Exploring automation tools for scheduling and billing
 
-Securing internal data with cybersecurity best practices
+Securing internal data with cybersecurity best practices  
+
+----------------------------------------------------------------------------------------------------------
+
+<h2>
 
 📚 What You'll Find Here
 Section	Description
