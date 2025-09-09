@@ -27,19 +27,10 @@ My goal is to create structured, beginner-friendly training and project material
 - <b>GitHub-based learning & collaboration</b>
 - <b>Remote mentoring opportunities (coming soon)</b>
 
-I hope 
 
 <details>
   <summary><em>🪂 One Man's Thoughts...</em></summary>
   The summer of last year (2024) provided a once in a lifetime opportunity to knock off one of the items in my bucket list - to see the origin continent
-  ### 🔐 Cybersecurity Modules
-  - Network Security Fundamentals
-  - Common Vulnerabilities (OWASP Top 10)
-  - Setting up a Home Lab
-  - Threat Detection with Wireshark
-  - Basics of Threat Modeling
-
-  👨‍💻 Currently working through: TryHackMe, Hack The Box
 
 </details>
 
