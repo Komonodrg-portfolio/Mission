@@ -33,10 +33,10 @@ This mission is driven by the belief that **access to digital skills can change 
 ![Alt text](images/ChurchKids.jpg)
 
 <p float="left">
-  <img src="images/Safari21.jpg" width="200" />
-  <img src="images/Safari20.jpg" width="200" />
-  <img src="images/Mountains1.jpg" width="200" />
-  <img src="images/Safari19.jpg" width="200" />  
+  <img src="images/Safari21.jpg" width="150" />
+  <img src="images/Safari20.jpg" width="150" />
+  <img src="images/Mountains1.jpg" width="150" />
+  <img src="images/Safari19.jpg" width="150" />  
 </p>
 
   You can include **Markdown** _formatting_ inside here too.
