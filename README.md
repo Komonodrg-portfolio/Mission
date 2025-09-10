@@ -34,7 +34,7 @@ This mission is driven by the belief that **access to digital skills can change 
 
 <p float="left">
   <img src="images/Safari21.jpg" width="150" />
-  <img src="images/Safari20.jpg" width="150" />
+  <img src="images/LakeVictoria2.jpg" width="150" />
   <img src="images/Mountains1.jpg" width="150" />
   <img src="images/Safari19.jpg" width="150" />  
 </p>
