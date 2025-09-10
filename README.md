@@ -37,6 +37,7 @@ This mission is driven by the belief that **access to digital skills can change 
   <img src="images/LakeVictoria2.jpg" width="150" />
   <img src="images/Mountains1.jpg" width="150" />
   <img src="images/Safari19.jpg" width="150" />  
+  <img src="images/LakeVictoria4.jpg" width="150" /> 
 </p>
 
   You can include **Markdown** _formatting_ inside here too.
