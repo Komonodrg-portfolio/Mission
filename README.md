@@ -26,7 +26,7 @@ This mission is driven by the belief that **access to digital skills can change 
 <br>
 
 <details>
-  <summary><em><b>🪂  "One Man's Thoughts..."</b></em></summary>
+ <summary><h3><em><b>🪂  "One Man's Thoughts..."</b></em></h3></summary>
   <br> 
   This is the hidden content that will appear when the link is clicked.
 
