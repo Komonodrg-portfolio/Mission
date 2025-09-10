@@ -30,6 +30,13 @@ This mission is driven by the belief that **access to digital skills can change 
   <br> 
   This is the hidden content that will appear when the link is clicked.
 
+![Alt text](images/ChurchKids.jpg)
+
+<p float="left">
+  <img src="images/Safari17.jpg" width="200" />
+  <img src="images/Safari18.jpg" width="200" />
+</p>
+
   You can include **Markdown** _formatting_ inside here too.
 
   - Bullet point
