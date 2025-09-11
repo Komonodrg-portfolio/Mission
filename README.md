@@ -1,8 +1,8 @@
 ### [Cybersecurity](https://github.com/Komonodrg-portfolio/Cybersecurity) | [Networking](https://github.com/Komonodrg-portfolio/Networking) | [Data Science (AI)](https://github.com/Komonodrg-portfolio/AI) | [Media Creation](https://github.com/Komonodrg-portfolio/MediaCreation)
 
-# 🌍 Mission: Empower Through Tech – Cybersecurity, Networking & AI
+# 🌍 Mission
 
-## 💡 Overview
+## 🌐 Overview
 
 Welcome to my Mission Repo – a personal and professional journey combining continuous learning in Cybersecurity, Network Engineering, and Artificial Intelligence, with a mission to empower others, especially those in underdeveloped regions & underserverd communities, through open access to knowledge, tools, and real-world use cases.
 
