@@ -30,7 +30,7 @@ This mission is driven by the belief that **access to digital skills can change 
   <br> 
   This is the hidden content that will appear when the link is clicked.
 
-![Alt text](images/ChurchKids.jpg)
+![Alt text](images/ChurchKids.png)
 
 <p float="left">
   <img src="images/Safari21.jpg" width="150" />
@@ -41,7 +41,7 @@ This mission is driven by the belief that **access to digital skills can change 
   <img src="images/LakeVictoria4.jpg" width="150" />
 </p>
 
-![Alt text](images/Safari17.jpg)
+![Alt text](images/Safari17.png)
 
   You can include **Markdown** _formatting_ inside here too.
 
