@@ -28,20 +28,30 @@ This mission is driven by the belief that **access to digital skills can change 
 <details>
  <summary><h3><em><b>🪂  "One Man's Thoughts..."</b></em></h3></summary>
   <br> 
-  This is the hidden content that will appear when the link is clicked.
+The summer of 2024 was an exciting time for me!  Being the son of immigrants, it was cool getting a chance to take a trip to visit the continent of my parents origin - icing on the cake was being able to travel to Kenya with my Mom (bucket list item - ✔️!)  We spent a little under a month traveling the country (literally from mountain to coast) taking in the wonders Kenya had to offer.  From the beaches of Mombasa/Nyali, to a safari in Nairobi, fishing Lake Victoria, & spending sometime in the mountains of Kisii to visit with friends, it was the trip of a lifetime.<br>  
+<br> 
+Coming back to the US was bittersweet.  Though I missed my wife and kids tremendously while gone, I couldn't shake this feeling to give back to a people who gave so much to us while on our journeys.  Specifically, I thought of the kids in a village where we attended church one Saturday(pic below) and spent a while considering how I best could leverage my talents to help them be all they could aspire to be in this lifetime, despite the extreme hardships felt in remote/rural communities.  My answer and love letter to them and all the lifelong friends met along the way: creating this repo.<br>
+<br>
+**My Vision:**
+- To provide a bandwidth friendly resource for those seeking an career in IT
+- Find a way to get donated-repurposed laptops / cellphones (some iteration of service as well) to people such communities 
+- Mentorship via live sessions
+- Provide scholarships to cover the costs for IT Certifications to individuals showing deep aptitude, skill, and readiness
+  
 
-![Alt text](images/ChurchKids.png)
+![Alt text](images/Kenya/ChurchKids.png)
 
-<p float="left">
-  <img src="images/Safari21.jpg" width="150" />
-  <img src="images/LakeVictoria2.jpg" width="150" />
-  <img src="images/Mountains1.jpg" width="150" />
-  <img src="images/Safari19.jpg" width="150" />  
-  <img src="images/BeachCamel.jpg" width="150" /> 
-  <img src="images/LakeVictoria4.jpg" width="150" />
-</p>
+<p float="center">
+  <img src="images/Kenya/SceneryMountainsTea.png" width="200" />
+  <img src="images/Kenya/Flower4.png" width="200" />
+  <img src="images/Kenya/ScenerySafari22.png" width="200" />
+  <img src="images/Kenya/Flowers.png" width="200" />
+  <img src="images/Kenya/Giraffe.png" width="200" />
+  <img src="images/Kenya/rhinos.png" width="200" />  
+  <img src="images/Kenya/SafariCroc.png" width="200" />
+  <img src="images/Kenya/ScenerySafariHole.png" width="200" />
 
-![Alt text](images/Safari17.png)
+![Alt text](images/Kenya/Safari17.png)
 
   You can include **Markdown** _formatting_ inside here too.
 
