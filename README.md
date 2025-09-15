@@ -72,7 +72,9 @@ I'm also applying my growing skills to support **real-world local businesses in 
 
 Helping a local farmer:
 
-![Alt text](images/DeBerry/DFarmsLogo.png)
+<p align="center">
+  <img src="https://github.com/Komonodrg-portfolio/Mission/blob/main/images/DeBerry/DFarmsLogo.png" alt="More Than a Maid Logo" width="250"/>
+</p>
 
 - IoT research for soil and water monitoring
     
@@ -84,6 +86,10 @@ Helping a local farmer:
 #### 🧼 Cleaning Services Support
 
 Helping a colleagues cleaning company:
+
+<p align="center">
+  <img src="https://github.com/Komonodrg-portfolio/Mission/blob/main/images/DeBerry/MoreThanAMaid.png" alt="More Than a Maid Logo" width="200"/>
+</p>
 
 - Setting up a secure, automated booking/contact system
     
