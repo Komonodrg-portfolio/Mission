@@ -66,7 +66,7 @@ Onward.<br></em>
 
 ### 🤝 2. **Impact Local Businesses**
 
-I'm also applying my growing skills to support **local businesses in need of tech help**, with a focus on **practical, cost-effective solutions**.
+I'm also applying my growing skills to support **real-world local businesses in need of tech help**, with a focus on **practical, cost-effective solutions**.
 
 #### 🌾 Small Farm Project
 
@@ -83,7 +83,7 @@ Helping a local farmer:
 
 #### 🧼 Cleaning Services Support
 
-Helping a friend’s cleaning company:
+Helping a colleagues cleaning company:
 
 - Setting up a secure, automated booking/contact system
     
