@@ -100,7 +100,17 @@ Helping a colleagues cleaning company:
 <details>
  <summary><h3><em><b>🪂  "One Man's Thoughts..."</b></em></h3></summary>
   <br> 
-<em> 🚧  construction... 🚧 </em><br>
+<em> 🚧  construction...🚧
+
+    
+<p float="center">
+  <img src="images/DeBerry/DeBerryFamily.png" width="200" />
+  <img src="images/DeBerry/Melons.png" width="200" />
+  <img src="images/DeBerry/Okra.png" width="200" />
+  <img src="images/DeBerry/DeberryVenor2.png" width="200" />
+  
+</em><br>
 <br>
 
 <em>Colleagues,Onward.<br></em>
+</details>
