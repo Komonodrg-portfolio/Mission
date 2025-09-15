@@ -72,6 +72,8 @@ I'm also applying my growing skills to support **local businesses in need of tec
 
 Helping a local farmer:
 
+![Alt text](images/DeBerry/DFarmsLogo.png)
+
 - IoT research for soil and water monitoring
     
 - Planning a small-scale network for sensors and data collection
