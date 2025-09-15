@@ -40,9 +40,7 @@ Coming back to the US was bittersweet.  Though I missed my wife and kids tremend
 
 <em>Enjoy these pictures from the trip.
 
-Colleagues,<p><br> 
-<br> 
-Onward.<br></em>
+Colleagues,Onward.<br></em>
 
   
 
