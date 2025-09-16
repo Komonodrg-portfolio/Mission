@@ -109,6 +109,9 @@ Helping a colleagues cleaning company:
   <img src="images/DeBerry/Squash.png" width="200" />
   <img src="images/DeBerry/DeberryVendor2.png" width="200" />
   <img src="images/DeBerry/WMelonField.png" width="200" />
+  <img src="images/DeBerry/Hanna.png" width="200" />
+  <img src="images/DeBerry/DintheField.png" width="200" />
+  <img src="images/DeBerry/Okra.png" width="200" />
   <img src="images/DeBerry/TractorCouple.png" width="200" />
   
 </em><br>
