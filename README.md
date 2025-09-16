@@ -100,7 +100,10 @@ Helping a colleagues cleaning company:
 <details>
  <summary><h3><em><b>🪂  "One Man's Thoughts..."</b></em></h3></summary>
   <br> 
-<em> 🚧  construction...🚧
+<em> When you think back to those individuals in your life who were instrumental in helping to shape you positively, you often think fondly of them.  Such is Mr. Jesse DeBerry to me.  I've appreciated his friendship for nearly 2 decades now and have watched him successfully run a small business all while raising 4 girls admirably, alongside his better half.  When presented with an opportunity to assist him with next business venture in getting a farm established on family land, it was easily a no-brainer for me.
+
+Below are some pics from DeBerry Farms, please enjoy and support him.  They say a picture is worth a thousand words, hoping the pics below do his hard work justice.
+
 
     
 <p float="center">
@@ -117,5 +120,5 @@ Helping a colleagues cleaning company:
 </em><br>
 <br>
 
-<em>Colleagues,Onward.<br></em>
+<em>Colleagues, Onward.<br></em>
 </details>
