@@ -89,6 +89,7 @@ Helping a colleagues cleaning company:
   <img src="https://github.com/Komonodrg-portfolio/Mission/blob/main/images/DeBerry/MoreThanAMaid.png" alt="More Than a Maid Logo" width="200"/>
 </p>
 
+<br>
 - Setting up a secure, automated booking/contact system
     
 - Creating a professional online presence
