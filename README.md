@@ -124,7 +124,6 @@ Below are some pics from DeBerry Farms, please enjoy and support him.  They say 
   <img src="images/DeBerry/TractorCouple.png" width="200" />
   
 </em><br>
-<br>
 
 <em>Colleagues, Onward.<br></em>
 </details>
